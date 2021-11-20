@@ -134,7 +134,7 @@ export default function Home({navigation}){
             fontWeight:"bold"
         }}
         >$<Text style={{
-            color:"black",
+            color:"orange",
             fontWeight: "bold"
         }}> 5</Text></Text>
 
@@ -156,7 +156,7 @@ export default function Home({navigation}){
            marginBottom:5
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             marginTop:1,
@@ -201,7 +201,7 @@ export default function Home({navigation}){
            marginBottom:5
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             marginTop:-8,
@@ -218,7 +218,7 @@ export default function Home({navigation}){
 
             color: 'lightgrey',
         }}>
-         Schwinn Bike</Text>
+         Tchoukoutou</Text>
         <Text style={{ 
             color:"orange",
             fontWeight:"bold"
@@ -246,7 +246,7 @@ export default function Home({navigation}){
            marginBottom:5
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             marginTop:1,
@@ -262,7 +262,7 @@ export default function Home({navigation}){
             
             color: 'lightred',
         }}>
-        Narco Bike</Text>
+        Pastena</Text>
         <Text style={{ 
             color:"orange",
             fontWeight:"bold"

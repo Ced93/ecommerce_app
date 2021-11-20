@@ -56,7 +56,7 @@ export default function Cart({navigation}){
            
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5, marginRight:10}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             
@@ -66,7 +66,7 @@ export default function Cart({navigation}){
             marginBottom: 25,
            
         }}
-        source={require('./pastena.jpeg')} 
+        source={require('./images/pastena.jpeg')} 
         />
         </TouchableOpacity>
 
@@ -88,7 +88,7 @@ export default function Cart({navigation}){
                  marginLeft:110,
                  
             }}
-        name="trash" size={28} color="orange"  />
+        name="trash" size={28} color="blue"  />
 
             </View >
             <Text style={{
@@ -97,7 +97,7 @@ export default function Cart({navigation}){
                 fontWeight:"bold",
                 color:"grey"
             }}>
-                Montain bike
+                pastena
             </Text>
             <View style= {{flexDirection:"row"}}>
             <Text style={{ 
@@ -158,7 +158,7 @@ export default function Cart({navigation}){
            
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5, marginRight:10}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             
@@ -183,7 +183,7 @@ export default function Cart({navigation}){
                 marginLeft:10, 
                 marginBottom:15,
                 fontWeight:"bold"
-            }}>Schiwin Bike 
+            }}>local flavour
 
             </Text>
 
@@ -191,7 +191,7 @@ export default function Cart({navigation}){
                  marginLeft:90,
                  
             }}
-        name="trash" size={28} color="orange"  />
+        name="trash" size={28} color="blue"  />
 
             </View >
             <Text style={{
@@ -200,7 +200,7 @@ export default function Cart({navigation}){
                 fontWeight:"bold",
                 color:"grey"
             }}>
-                Road bike
+                tchouk
             </Text>
             <View style= {{flexDirection:"row"}}>
             <Text style={{ 
@@ -213,7 +213,7 @@ export default function Cart({navigation}){
         >$<Text style={{
             color:"black",
             fontWeight: "bold"
-        }}> 4,500.00</Text></Text>
+        }}> 5</Text></Text>
 
         <AntDesign 
 
@@ -227,7 +227,7 @@ export default function Cart({navigation}){
         <Text
          style={{
              fontWeight:"bold",
-            //marginLeft:20
+            
         }}
         >  1  </Text>
         <AntDesign name="pluscircle" size={28} color="orange" />
@@ -263,7 +263,7 @@ export default function Cart({navigation}){
            
       }}>
           <Ionicons style={{alignSelf:"flex-end", marginBottom:5, marginRight:10}}
-          name="heart-circle" size={24} color="black" />
+          name="heart-circle" size={24} color="orange" />
         <Image
          style={{
             
@@ -287,7 +287,7 @@ export default function Cart({navigation}){
                 marginLeft:10, 
                 marginBottom:15,
                 fontWeight:"bold"
-            }}>Pinarello Bike 
+            }}>baobab flavour 
 
             </Text>
 
@@ -295,7 +295,7 @@ export default function Cart({navigation}){
                  marginLeft:90,
                
             }}
-        name="trash" size={28} color="orange"  />
+        name="trash" size={28} color="blue"  />
 
             </View >
             <Text style={{
@@ -304,7 +304,7 @@ export default function Cart({navigation}){
                 fontWeight:"bold",
                 color:"grey"
             }}>
-            Urbain 
+            
             </Text>
             <View style= {{flexDirection:"row"}}>
             <Text style={{ 
@@ -317,7 +317,7 @@ export default function Cart({navigation}){
         >$<Text style={{
             color:"black",
             fontWeight: "bold"
-        }}> 1,700.00</Text></Text>
+        }}> 5</Text></Text>
 
         <AntDesign 
 
@@ -381,7 +381,7 @@ export default function Cart({navigation}){
                        color:"black",
                          fontWeight: "bold",
                          
-                     }}> 5</Text></Text>
+                     }}> 15</Text></Text>
                      
                      </View>
 
@@ -490,7 +490,7 @@ export default function Cart({navigation}){
                 paddingTop:15, 
 
             }}
-            name="home" size={26} color="darkgrey" />
+            name="home" size={26} color="blue" />
             </TouchableOpacity>
               
               
@@ -502,7 +502,7 @@ export default function Cart({navigation}){
                 
             }}
         
-             name="shopping-bag" size={24} color="orange" />
+             name="shopping-bag" size={24} color="blue" />
              <View
         style={{
             justifyContent:"center",
@@ -520,7 +520,7 @@ export default function Cart({navigation}){
                     
                 }}
         
-        name="md-mic-circle-sharp" size={50} color="black" />
+        name="md-mic-circle-sharp" size={50} color="blue" />
         </View>
 
             
