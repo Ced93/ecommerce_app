@@ -256,7 +256,7 @@ export default function Home({navigation}){
             marginBottom: 25,
            
         }}
-        source={require('./images/pastena')} 
+        source={require('./images/pastena.jpeg')} 
         />
         <Text style={{ 
             

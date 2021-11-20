@@ -16,11 +16,11 @@ export default function Login({navigation}){
             marginTop:70,
             transform:[{rotate:"295deg"}]
         }}
-        source={require('./images/sun.first,jpeg')} 
+        source={require('./images/first.jpeg')} 
         />
         
            <Text style={{ colo:"rgba(0,0,0,0.6)", fontSize:"24"}}>Welcome to</Text> 
-           <Text style={{ Color: "black", fontSize:"30", fontWeight: " 600", fontWeight: "bol"}}>
+           <Text style={{ Color: "blue", fontSize:"30", fontWeight: " 600", fontWeight: "bol"}}>
                 Les jus pastena
             </Text>
         <TouchableOpacity
