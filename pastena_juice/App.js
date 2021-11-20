@@ -1,3 +1,4 @@
+// Please run this code on the web for depencies not really work or really stable
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
