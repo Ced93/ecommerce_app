@@ -222,7 +222,7 @@ export default function Cart({navigation}){
             paddingBottom:5
         }}
     
-        name="minuscircle" size={28} color="black" />
+        name="minuscircle" size={28} color="blue" />
 
         <Text
          style={{
@@ -230,7 +230,7 @@ export default function Cart({navigation}){
             
         }}
         >  1  </Text>
-        <AntDesign name="pluscircle" size={28} color="orange" />
+        <AntDesign name="pluscircle" size={28} color="blue" />
         </View>
 
         </View>
